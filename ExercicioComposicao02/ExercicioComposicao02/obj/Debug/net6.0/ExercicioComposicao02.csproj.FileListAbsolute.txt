@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\bin\Debug\net6.0\ExercicioComposicao02.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\bin\Debug\net6.0\ExercicioComposicao02.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\bin\Debug\net6.0\ExercicioComposicao02.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\bin\Debug\net6.0\ExercicioComposicao02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\bin\Debug\net6.0\ExercicioComposicao02.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\refint\ExercicioComposicao02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ExercicioComposicao02.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioComposicao02\ExercicioComposicao02\obj\Debug\net6.0\ref\ExercicioComposicao02.dll
