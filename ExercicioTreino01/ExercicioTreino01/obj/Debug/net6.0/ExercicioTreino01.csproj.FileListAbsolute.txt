@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\bin\Debug\net6.0\ExercicioTreino01.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\bin\Debug\net6.0\ExercicioTreino01.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\bin\Debug\net6.0\ExercicioTreino01.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\bin\Debug\net6.0\ExercicioTreino01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\bin\Debug\net6.0\ExercicioTreino01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\refint\ExercicioTreino01.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ExercicioTreino01.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao9EnumeracoesComposicao\ExercicioTreino01\ExercicioTreino01\obj\Debug\net6.0\ref\ExercicioTreino01.dll

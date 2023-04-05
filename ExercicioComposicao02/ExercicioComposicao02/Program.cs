@@ -32,7 +32,7 @@ namespace ExercicioComposicao02 // Note: actual namespace depends on the project
             p2.AddComment(c4);
 
             Console.WriteLine(p1);
-            Console.WriteLine(p2);
+            Console.WriteLine(p2d);
 
         }
     }
