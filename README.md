@@ -1,4 +1,4 @@
-# Seção 9: Enumerações e composição
+# Enumerações e composição
 
 ## enumerações
 
