@@ -48,7 +48,7 @@ namespace ExercicioTreino01.Entities
             sb.AppendLine("Resultado do Pedido!");
             sb.AppendLine("Data do Pedido: " +Moment.ToString("dd/MM/yyyy HH:mm:ss"));
             sb.AppendLine("Status do Pedido: " + Status);
-            sb.AppendLine("Cliente: " + Client.Name + " " + Client.BirthDate.ToString("dd/MM/yyyy" + " - " + Client.Email));
+            sb.AppendLine("Cliente: " + Client.Name + " " + Client.BirthDate.ToString("dd/MM/yyyy" + " - " + C  lient.Email));
             sb.AppendLine("Ordem dos Items");
             foreach (OrderItem item in Items)
             {
